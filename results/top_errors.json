@@ -1,0 +1,127 @@
+[
+ {
+  "gold": "loại",
+  "predicted": "loài",
+  "count": 22
+ },
+ {
+  "gold": "con",
+  "predicted": "còn",
+  "count": 15
+ },
+ {
+  "gold": "từ",
+  "predicted": "tự",
+  "count": 15
+ },
+ {
+  "gold": "tự",
+  "predicted": "từ",
+  "count": 14
+ },
+ {
+  "gold": "cổ",
+  "predicted": "có",
+  "count": 14
+ },
+ {
+  "gold": "cùng",
+  "predicted": "cũng",
+  "count": 14
+ },
+ {
+  "gold": "Hoa",
+  "predicted": "Hòa",
+  "count": 13
+ },
+ {
+  "gold": "quan",
+  "predicted": "quân",
+  "count": 13
+ },
+ {
+  "gold": "hoá",
+  "predicted": "hóa",
+  "count": 12
+ },
+ {
+  "gold": "dầu",
+  "predicted": "đầu",
+  "count": 12
+ },
+ {
+  "gold": "đen",
+  "predicted": "đến",
+  "count": 11
+ },
+ {
+  "gold": "này",
+  "predicted": "nay",
+  "count": 11
+ },
+ {
+  "gold": "từ",
+  "predicted": "tử",
+  "count": 11
+ },
+ {
+  "gold": "sau",
+  "predicted": "sâu",
+  "count": 11
+ },
+ {
+  "gold": "lá",
+  "predicted": "là",
+  "count": 11
+ },
+ {
+  "gold": "kẽm",
+  "predicted": "kém",
+  "count": 11
+ },
+ {
+  "gold": "đất",
+  "predicted": "đặt",
+  "count": 10
+ },
+ {
+  "gold": "loài",
+  "predicted": "loại",
+  "count": 10
+ },
+ {
+  "gold": "nhĩ",
+  "predicted": "nhị",
+  "count": 10
+ },
+ {
+  "gold": "nhân",
+  "predicted": "nhận",
+  "count": 9
+ },
+ {
+  "gold": "cơ",
+  "predicted": "có",
+  "count": 9
+ },
+ {
+  "gold": "thanh",
+  "predicted": "thành",
+  "count": 9
+ },
+ {
+  "gold": "Vạn",
+  "predicted": "Văn",
+  "count": 9
+ },
+ {
+  "gold": "hổ",
+  "predicted": "họ",
+  "count": 9
+ },
+ {
+  "gold": "nhưng",
+  "predicted": "những",
+  "count": 9
+ }
+]

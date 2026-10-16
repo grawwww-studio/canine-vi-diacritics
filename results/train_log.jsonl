@@ -1,0 +1,187 @@
+{"step": 100, "of": 18750, "loss": 0.8499, "elapsed_s": 7.2}
+{"step": 200, "of": 18750, "loss": 0.4376, "elapsed_s": 13.4}
+{"step": 300, "of": 18750, "loss": 0.3158, "elapsed_s": 19.6}
+{"step": 400, "of": 18750, "loss": 0.2668, "elapsed_s": 25.8}
+{"step": 500, "of": 18750, "loss": 0.2308, "elapsed_s": 32.0}
+{"step": 600, "of": 18750, "loss": 0.2358, "elapsed_s": 38.2}
+{"step": 700, "of": 18750, "loss": 0.2132, "elapsed_s": 44.5}
+{"step": 800, "of": 18750, "loss": 0.1727, "elapsed_s": 50.7}
+{"step": 900, "of": 18750, "loss": 0.1838, "elapsed_s": 56.9}
+{"step": 1000, "of": 18750, "loss": 0.1574, "elapsed_s": 63.2, "val500_syllable_accuracy": 0.7873}
+{"step": 1100, "of": 18750, "loss": 0.149, "elapsed_s": 69.6}
+{"step": 1200, "of": 18750, "loss": 0.1453, "elapsed_s": 75.8}
+{"step": 1300, "of": 18750, "loss": 0.1417, "elapsed_s": 82.0}
+{"step": 1400, "of": 18750, "loss": 0.1245, "elapsed_s": 88.2}
+{"step": 1500, "of": 18750, "loss": 0.1225, "elapsed_s": 94.5}
+{"step": 1600, "of": 18750, "loss": 0.1381, "elapsed_s": 100.7}
+{"step": 1700, "of": 18750, "loss": 0.1243, "elapsed_s": 106.9}
+{"step": 1800, "of": 18750, "loss": 0.1301, "elapsed_s": 113.1}
+{"step": 1900, "of": 18750, "loss": 0.1301, "elapsed_s": 119.4}
+{"step": 2000, "of": 18750, "loss": 0.106, "elapsed_s": 125.6, "val500_syllable_accuracy": 0.8536}
+{"step": 2100, "of": 18750, "loss": 0.1196, "elapsed_s": 131.9}
+{"step": 2200, "of": 18750, "loss": 0.1208, "elapsed_s": 138.2}
+{"step": 2300, "of": 18750, "loss": 0.1156, "elapsed_s": 144.4}
+{"step": 2400, "of": 18750, "loss": 0.1011, "elapsed_s": 150.6}
+{"step": 2500, "of": 18750, "loss": 0.1202, "elapsed_s": 156.9}
+{"step": 2600, "of": 18750, "loss": 0.1023, "elapsed_s": 163.1}
+{"step": 2700, "of": 18750, "loss": 0.0946, "elapsed_s": 169.3}
+{"step": 2800, "of": 18750, "loss": 0.085, "elapsed_s": 175.5}
+{"step": 2900, "of": 18750, "loss": 0.0717, "elapsed_s": 181.7}
+{"step": 3000, "of": 18750, "loss": 0.1058, "elapsed_s": 188.0, "val500_syllable_accuracy": 0.8842}
+{"step": 3100, "of": 18750, "loss": 0.0822, "elapsed_s": 194.3}
+{"step": 3200, "of": 18750, "loss": 0.0984, "elapsed_s": 200.6}
+{"step": 3300, "of": 18750, "loss": 0.0839, "elapsed_s": 206.8}
+{"step": 3400, "of": 18750, "loss": 0.087, "elapsed_s": 213.1}
+{"step": 3500, "of": 18750, "loss": 0.0848, "elapsed_s": 219.3}
+{"step": 3600, "of": 18750, "loss": 0.0819, "elapsed_s": 225.5}
+{"step": 3700, "of": 18750, "loss": 0.0811, "elapsed_s": 231.8}
+{"step": 3800, "of": 18750, "loss": 0.0923, "elapsed_s": 238.0}
+{"step": 3900, "of": 18750, "loss": 0.0899, "elapsed_s": 244.2}
+{"step": 4000, "of": 18750, "loss": 0.0738, "elapsed_s": 250.4, "val500_syllable_accuracy": 0.9002}
+{"step": 4100, "of": 18750, "loss": 0.093, "elapsed_s": 256.8}
+{"step": 4200, "of": 18750, "loss": 0.0794, "elapsed_s": 263.0}
+{"step": 4300, "of": 18750, "loss": 0.0594, "elapsed_s": 269.2}
+{"step": 4400, "of": 18750, "loss": 0.0631, "elapsed_s": 275.5}
+{"step": 4500, "of": 18750, "loss": 0.0694, "elapsed_s": 281.7}
+{"step": 4600, "of": 18750, "loss": 0.0724, "elapsed_s": 288.0}
+{"step": 4700, "of": 18750, "loss": 0.0911, "elapsed_s": 294.2}
+{"step": 4800, "of": 18750, "loss": 0.0818, "elapsed_s": 300.4}
+{"step": 4900, "of": 18750, "loss": 0.0803, "elapsed_s": 306.6}
+{"step": 5000, "of": 18750, "loss": 0.0747, "elapsed_s": 312.9, "val500_syllable_accuracy": 0.9162}
+{"step": 5100, "of": 18750, "loss": 0.077, "elapsed_s": 319.3}
+{"step": 5200, "of": 18750, "loss": 0.0667, "elapsed_s": 325.6}
+{"step": 5300, "of": 18750, "loss": 0.0718, "elapsed_s": 331.8}
+{"step": 5400, "of": 18750, "loss": 0.0584, "elapsed_s": 338.1}
+{"step": 5500, "of": 18750, "loss": 0.0649, "elapsed_s": 344.4}
+{"step": 5600, "of": 18750, "loss": 0.0755, "elapsed_s": 350.7}
+{"step": 5700, "of": 18750, "loss": 0.0548, "elapsed_s": 357.0}
+{"step": 5800, "of": 18750, "loss": 0.0718, "elapsed_s": 363.3}
+{"step": 5900, "of": 18750, "loss": 0.0706, "elapsed_s": 369.6}
+{"step": 6000, "of": 18750, "loss": 0.0692, "elapsed_s": 375.9, "val500_syllable_accuracy": 0.92}
+{"step": 6100, "of": 18750, "loss": 0.0605, "elapsed_s": 382.3}
+{"step": 6200, "of": 18750, "loss": 0.0567, "elapsed_s": 388.6}
+{"step": 6300, "of": 18750, "loss": 0.0579, "elapsed_s": 395.0}
+{"step": 6400, "of": 18750, "loss": 0.0438, "elapsed_s": 401.2}
+{"step": 6500, "of": 18750, "loss": 0.0783, "elapsed_s": 407.6}
+{"step": 6600, "of": 18750, "loss": 0.0571, "elapsed_s": 413.8}
+{"step": 6700, "of": 18750, "loss": 0.0516, "elapsed_s": 420.1}
+{"step": 6800, "of": 18750, "loss": 0.068, "elapsed_s": 426.4}
+{"step": 6900, "of": 18750, "loss": 0.0777, "elapsed_s": 432.7}
+{"step": 7000, "of": 18750, "loss": 0.0488, "elapsed_s": 439.1, "val500_syllable_accuracy": 0.9271}
+{"step": 7100, "of": 18750, "loss": 0.0634, "elapsed_s": 445.5}
+{"step": 7200, "of": 18750, "loss": 0.0615, "elapsed_s": 451.8}
+{"step": 7300, "of": 18750, "loss": 0.0477, "elapsed_s": 458.1}
+{"step": 7400, "of": 18750, "loss": 0.058, "elapsed_s": 464.3}
+{"step": 7500, "of": 18750, "loss": 0.063, "elapsed_s": 470.6}
+{"step": 7600, "of": 18750, "loss": 0.0569, "elapsed_s": 476.9}
+{"step": 7700, "of": 18750, "loss": 0.0637, "elapsed_s": 483.1}
+{"step": 7800, "of": 18750, "loss": 0.055, "elapsed_s": 489.4}
+{"step": 7900, "of": 18750, "loss": 0.0538, "elapsed_s": 495.6}
+{"step": 8000, "of": 18750, "loss": 0.0649, "elapsed_s": 501.8, "val500_syllable_accuracy": 0.9321}
+{"step": 8100, "of": 18750, "loss": 0.0474, "elapsed_s": 508.2}
+{"step": 8200, "of": 18750, "loss": 0.064, "elapsed_s": 514.4}
+{"step": 8300, "of": 18750, "loss": 0.0446, "elapsed_s": 520.6}
+{"step": 8400, "of": 18750, "loss": 0.0593, "elapsed_s": 526.8}
+{"step": 8500, "of": 18750, "loss": 0.0391, "elapsed_s": 533.0}
+{"step": 8600, "of": 18750, "loss": 0.0581, "elapsed_s": 539.2}
+{"step": 8700, "of": 18750, "loss": 0.046, "elapsed_s": 545.5}
+{"step": 8800, "of": 18750, "loss": 0.061, "elapsed_s": 551.7}
+{"step": 8900, "of": 18750, "loss": 0.0446, "elapsed_s": 557.9}
+{"step": 9000, "of": 18750, "loss": 0.0611, "elapsed_s": 564.1, "val500_syllable_accuracy": 0.9354}
+{"step": 9100, "of": 18750, "loss": 0.0502, "elapsed_s": 570.4}
+{"step": 9200, "of": 18750, "loss": 0.05, "elapsed_s": 576.6}
+{"step": 9300, "of": 18750, "loss": 0.0629, "elapsed_s": 582.8}
+{"step": 9400, "of": 18750, "loss": 0.0562, "elapsed_s": 589.0}
+{"step": 9500, "of": 18750, "loss": 0.046, "elapsed_s": 595.3}
+{"step": 9600, "of": 18750, "loss": 0.052, "elapsed_s": 601.5}
+{"step": 9700, "of": 18750, "loss": 0.0451, "elapsed_s": 607.7}
+{"step": 9800, "of": 18750, "loss": 0.057, "elapsed_s": 613.9}
+{"step": 9900, "of": 18750, "loss": 0.0482, "elapsed_s": 620.1}
+{"step": 10000, "of": 18750, "loss": 0.0497, "elapsed_s": 626.3, "val500_syllable_accuracy": 0.9389}
+{"step": 10100, "of": 18750, "loss": 0.0466, "elapsed_s": 632.7}
+{"step": 10200, "of": 18750, "loss": 0.0494, "elapsed_s": 638.9}
+{"step": 10300, "of": 18750, "loss": 0.0476, "elapsed_s": 645.1}
+{"step": 10400, "of": 18750, "loss": 0.044, "elapsed_s": 651.3}
+{"step": 10500, "of": 18750, "loss": 0.0449, "elapsed_s": 657.5}
+{"step": 10600, "of": 18750, "loss": 0.0523, "elapsed_s": 663.7}
+{"step": 10700, "of": 18750, "loss": 0.0431, "elapsed_s": 669.9}
+{"step": 10800, "of": 18750, "loss": 0.0533, "elapsed_s": 676.1}
+{"step": 10900, "of": 18750, "loss": 0.0513, "elapsed_s": 682.3}
+{"step": 11000, "of": 18750, "loss": 0.0388, "elapsed_s": 688.5, "val500_syllable_accuracy": 0.942}
+{"step": 11100, "of": 18750, "loss": 0.0506, "elapsed_s": 694.8}
+{"step": 11200, "of": 18750, "loss": 0.038, "elapsed_s": 701.1}
+{"step": 11300, "of": 18750, "loss": 0.0499, "elapsed_s": 707.3}
+{"step": 11400, "of": 18750, "loss": 0.0447, "elapsed_s": 713.5}
+{"step": 11500, "of": 18750, "loss": 0.055, "elapsed_s": 719.7}
+{"step": 11600, "of": 18750, "loss": 0.052, "elapsed_s": 725.9}
+{"step": 11700, "of": 18750, "loss": 0.0635, "elapsed_s": 732.1}
+{"step": 11800, "of": 18750, "loss": 0.039, "elapsed_s": 738.4}
+{"step": 11900, "of": 18750, "loss": 0.0383, "elapsed_s": 744.6}
+{"step": 12000, "of": 18750, "loss": 0.0398, "elapsed_s": 750.8, "val500_syllable_accuracy": 0.9467}
+{"step": 12100, "of": 18750, "loss": 0.04, "elapsed_s": 757.2}
+{"step": 12200, "of": 18750, "loss": 0.0407, "elapsed_s": 763.4}
+{"step": 12300, "of": 18750, "loss": 0.0513, "elapsed_s": 769.6}
+{"step": 12400, "of": 18750, "loss": 0.042, "elapsed_s": 775.8}
+{"step": 12500, "of": 18750, "loss": 0.0473, "elapsed_s": 782.0}
+{"step": 12600, "of": 18750, "loss": 0.0345, "elapsed_s": 788.3}
+{"step": 12700, "of": 18750, "loss": 0.0373, "elapsed_s": 794.5}
+{"step": 12800, "of": 18750, "loss": 0.0353, "elapsed_s": 800.7}
+{"step": 12900, "of": 18750, "loss": 0.0407, "elapsed_s": 806.9}
+{"step": 13000, "of": 18750, "loss": 0.0279, "elapsed_s": 813.2, "val500_syllable_accuracy": 0.9483}
+{"step": 13100, "of": 18750, "loss": 0.0338, "elapsed_s": 819.5}
+{"step": 13200, "of": 18750, "loss": 0.0353, "elapsed_s": 825.7}
+{"step": 13300, "of": 18750, "loss": 0.0385, "elapsed_s": 831.9}
+{"step": 13400, "of": 18750, "loss": 0.0347, "elapsed_s": 838.2}
+{"step": 13500, "of": 18750, "loss": 0.0334, "elapsed_s": 844.4}
+{"step": 13600, "of": 18750, "loss": 0.0353, "elapsed_s": 850.6}
+{"step": 13700, "of": 18750, "loss": 0.0364, "elapsed_s": 856.8}
+{"step": 13800, "of": 18750, "loss": 0.0491, "elapsed_s": 863.0}
+{"step": 13900, "of": 18750, "loss": 0.0481, "elapsed_s": 869.2}
+{"step": 14000, "of": 18750, "loss": 0.0501, "elapsed_s": 875.4, "val500_syllable_accuracy": 0.9484}
+{"step": 14100, "of": 18750, "loss": 0.0357, "elapsed_s": 881.8}
+{"step": 14200, "of": 18750, "loss": 0.0397, "elapsed_s": 888.0}
+{"step": 14300, "of": 18750, "loss": 0.0427, "elapsed_s": 894.2}
+{"step": 14400, "of": 18750, "loss": 0.039, "elapsed_s": 900.4}
+{"step": 14500, "of": 18750, "loss": 0.0352, "elapsed_s": 906.7}
+{"step": 14600, "of": 18750, "loss": 0.0391, "elapsed_s": 912.9}
+{"step": 14700, "of": 18750, "loss": 0.0292, "elapsed_s": 919.1}
+{"step": 14800, "of": 18750, "loss": 0.036, "elapsed_s": 925.3}
+{"step": 14900, "of": 18750, "loss": 0.0413, "elapsed_s": 931.5}
+{"step": 15000, "of": 18750, "loss": 0.0473, "elapsed_s": 937.7, "val500_syllable_accuracy": 0.9494}
+{"step": 15100, "of": 18750, "loss": 0.0422, "elapsed_s": 944.1}
+{"step": 15200, "of": 18750, "loss": 0.0343, "elapsed_s": 950.3}
+{"step": 15300, "of": 18750, "loss": 0.0374, "elapsed_s": 956.5}
+{"step": 15400, "of": 18750, "loss": 0.0345, "elapsed_s": 962.7}
+{"step": 15500, "of": 18750, "loss": 0.0368, "elapsed_s": 969.0}
+{"step": 15600, "of": 18750, "loss": 0.0355, "elapsed_s": 975.2}
+{"step": 15700, "of": 18750, "loss": 0.0318, "elapsed_s": 981.4}
+{"step": 15800, "of": 18750, "loss": 0.0434, "elapsed_s": 987.6}
+{"step": 15900, "of": 18750, "loss": 0.0432, "elapsed_s": 993.8}
+{"step": 16000, "of": 18750, "loss": 0.0289, "elapsed_s": 1000.0, "val500_syllable_accuracy": 0.9502}
+{"step": 16100, "of": 18750, "loss": 0.035, "elapsed_s": 1006.4}
+{"step": 16200, "of": 18750, "loss": 0.024, "elapsed_s": 1012.6}
+{"step": 16300, "of": 18750, "loss": 0.0433, "elapsed_s": 1018.8}
+{"step": 16400, "of": 18750, "loss": 0.047, "elapsed_s": 1025.0}
+{"step": 16500, "of": 18750, "loss": 0.0437, "elapsed_s": 1031.2}
+{"step": 16600, "of": 18750, "loss": 0.0265, "elapsed_s": 1037.4}
+{"step": 16700, "of": 18750, "loss": 0.0311, "elapsed_s": 1043.6}
+{"step": 16800, "of": 18750, "loss": 0.0412, "elapsed_s": 1049.8}
+{"step": 16900, "of": 18750, "loss": 0.0351, "elapsed_s": 1056.0}
+{"step": 17000, "of": 18750, "loss": 0.034, "elapsed_s": 1062.2, "val500_syllable_accuracy": 0.9505}
+{"step": 17100, "of": 18750, "loss": 0.0335, "elapsed_s": 1068.6}
+{"step": 17200, "of": 18750, "loss": 0.042, "elapsed_s": 1074.8}
+{"step": 17300, "of": 18750, "loss": 0.0487, "elapsed_s": 1081.0}
+{"step": 17400, "of": 18750, "loss": 0.0408, "elapsed_s": 1087.2}
+{"step": 17500, "of": 18750, "loss": 0.0389, "elapsed_s": 1093.4}
+{"step": 17600, "of": 18750, "loss": 0.0441, "elapsed_s": 1099.6}
+{"step": 17700, "of": 18750, "loss": 0.0327, "elapsed_s": 1105.9}
+{"step": 17800, "of": 18750, "loss": 0.0308, "elapsed_s": 1112.1}
+{"step": 17900, "of": 18750, "loss": 0.0313, "elapsed_s": 1118.3}
+{"step": 18000, "of": 18750, "loss": 0.0447, "elapsed_s": 1124.5, "val500_syllable_accuracy": 0.9521}
+{"step": 18100, "of": 18750, "loss": 0.036, "elapsed_s": 1130.9}
+{"step": 18200, "of": 18750, "loss": 0.0407, "elapsed_s": 1137.1}
+{"step": 18300, "of": 18750, "loss": 0.0291, "elapsed_s": 1143.3}
+{"step": 18400, "of": 18750, "loss": 0.0475, "elapsed_s": 1149.5}
+{"step": 18500, "of": 18750, "loss": 0.049, "elapsed_s": 1155.7}
+{"step": 18600, "of": 18750, "loss": 0.0387, "elapsed_s": 1161.9}
+{"step": 18700, "of": 18750, "loss": 0.0369, "elapsed_s": 1168.1}

@@ -1,0 +1,29 @@
+{
+ "articles": {
+  "train": 296462,
+  "val": 9734,
+  "test": 15974
+ },
+ "candidate_sentences": {
+  "train": 2013955,
+  "val": 65367,
+  "test": 108218
+ },
+ "train_removed_as_duplicate_or_in_heldout": 109209,
+ "used_sentences": {
+  "train": 400000,
+  "val": 2000,
+  "test": 5000
+ },
+ "used_articles": {
+  "train": 99174,
+  "val": 1050,
+  "test": 2314
+ },
+ "source": {
+  "dataset": "wikimedia/wikipedia",
+  "revision": "b04c8d1ceb2f5cd4588862100d08de323dccfbaa",
+  "file": "20231101.vi/train-00000-of-00004.parquet"
+ },
+ "seconds": 809.3
+}

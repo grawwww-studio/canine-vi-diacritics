@@ -1,0 +1,91 @@
+{
+ "test_sentences": 5000,
+ "inference": {
+  "seconds_for_test_set": 0.8346900939941406,
+  "sentences_per_second": 5990.247201897545,
+  "peak_vram_allocated_gb": 1.9465155601501465
+ },
+ "systems": {
+  "copy_input": {
+   "letters": 400870,
+   "letter_accuracy": 0.7404794571806321,
+   "letter_error_rate": 0.25952054281936787,
+   "syllables": 110862,
+   "syllable_accuracy": 0.18928938680521729,
+   "syllable_error_rate": 0.8107106131947828,
+   "sentences": 5000,
+   "sentence_accuracy": 0.0,
+   "unseen_syllables": 1578,
+   "unseen_syllable_accuracy": 0.9011406844106464,
+   "syllable_accuracy_ci95": [
+    0.18625221763032393,
+    0.19239586573539172
+   ],
+   "letter_accuracy_ci95": [
+    0.7387982845994063,
+    0.7422382890047458
+   ]
+  },
+  "unigram_lookup": {
+   "letters": 400870,
+   "letter_accuracy": 0.9308728515478834,
+   "letter_error_rate": 0.06912714845211665,
+   "syllables": 110862,
+   "syllable_accuracy": 0.7641301798632534,
+   "syllable_error_rate": 0.23586982013674662,
+   "sentences": 5000,
+   "sentence_accuracy": 0.0444,
+   "unseen_syllables": 1578,
+   "unseen_syllable_accuracy": 0.9011406844106464,
+   "syllable_accuracy_ci95": [
+    0.7609971549523921,
+    0.7674611217628694
+   ],
+   "letter_accuracy_ci95": [
+    0.9298400671377768,
+    0.9319456621225145
+   ]
+  },
+  "canine_before_finetune": {
+   "letters": 400870,
+   "letter_accuracy": 0.5532317210068102,
+   "letter_error_rate": 0.4467682789931898,
+   "syllables": 110862,
+   "syllable_accuracy": 0.055808121809095994,
+   "syllable_error_rate": 0.944191878190904,
+   "sentences": 5000,
+   "sentence_accuracy": 0.0,
+   "unseen_syllables": 1578,
+   "unseen_syllable_accuracy": 0.12991128010139416,
+   "syllable_accuracy_ci95": [
+    0.05443560730710477,
+    0.05729789772119668
+   ],
+   "letter_accuracy_ci95": [
+    0.5515158344019637,
+    0.5550934861118592
+   ]
+  },
+  "canine_finetuned": {
+   "letters": 400870,
+   "letter_accuracy": 0.9841295182977025,
+   "letter_error_rate": 0.015870481702297545,
+   "syllables": 110862,
+   "syllable_accuracy": 0.9461312262091609,
+   "syllable_error_rate": 0.0538687737908391,
+   "sentences": 5000,
+   "sentence_accuracy": 0.4796,
+   "unseen_syllables": 1578,
+   "unseen_syllable_accuracy": 0.9277566539923955,
+   "syllable_accuracy_ci95": [
+    0.9440763817385875,
+    0.9483319835038115
+   ],
+   "letter_accuracy_ci95": [
+    0.9835048071541084,
+    0.9847781730658186
+   ]
+  }
+ },
+ "base_letters_changed": 0
+}

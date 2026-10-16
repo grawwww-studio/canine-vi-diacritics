@@ -1,0 +1,155 @@
+{
+ "task": "Vietnamese diacritics restoration (ASCII text in, diacritised text out)",
+ "model": {
+  "name": "google/canine-s",
+  "revision": "75d6d0b3f4d0bffed0ca7ddd0b73949977d4ca02",
+  "licence": "Apache-2.0"
+ },
+ "dataset": {
+  "dataset": "wikimedia/wikipedia",
+  "revision": "b04c8d1ceb2f5cd4588862100d08de323dccfbaa",
+  "file": "20231101.vi/train-00000-of-00004.parquet",
+  "licence": "CC BY-SA (3.0 on the Hugging Face snapshot) + GFDL"
+ },
+ "data": {
+  "articles_in_shard": {
+   "train": 296462,
+   "val": 9734,
+   "test": 15974
+  },
+  "used_sentences": {
+   "train": 400000,
+   "val": 2000,
+   "test": 5000
+  },
+  "used_articles": {
+   "train": 99174,
+   "val": 1050,
+   "test": 2314
+  }
+ },
+ "training": {
+  "train_seconds": 1171.2175257205963,
+  "steps": 18750,
+  "batch_size": 64,
+  "epochs": 3,
+  "lr": 5e-05,
+  "train_sentences": 400000,
+  "peak_vram_allocated_gb": 4.717426300048828,
+  "peak_vram_reserved_gb": 5.873046875,
+  "gpu": "NVIDIA GeForce RTX 4090",
+  "n_labels": 36
+ },
+ "systems": {
+  "copy_input": {
+   "letters": 400870,
+   "letter_accuracy": 0.7404794571806321,
+   "letter_error_rate": 0.25952054281936787,
+   "syllables": 110862,
+   "syllable_accuracy": 0.18928938680521729,
+   "syllable_error_rate": 0.8107106131947828,
+   "sentences": 5000,
+   "sentence_accuracy": 0.0,
+   "unseen_syllables": 1578,
+   "unseen_syllable_accuracy": 0.9011406844106464,
+   "syllable_accuracy_ci95": [
+    0.18625221763032393,
+    0.19239586573539172
+   ],
+   "letter_accuracy_ci95": [
+    0.7387982845994063,
+    0.7422382890047458
+   ]
+  },
+  "unigram_lookup": {
+   "letters": 400870,
+   "letter_accuracy": 0.9308728515478834,
+   "letter_error_rate": 0.06912714845211665,
+   "syllables": 110862,
+   "syllable_accuracy": 0.7641301798632534,
+   "syllable_error_rate": 0.23586982013674662,
+   "sentences": 5000,
+   "sentence_accuracy": 0.0444,
+   "unseen_syllables": 1578,
+   "unseen_syllable_accuracy": 0.9011406844106464,
+   "syllable_accuracy_ci95": [
+    0.7609971549523921,
+    0.7674611217628694
+   ],
+   "letter_accuracy_ci95": [
+    0.9298400671377768,
+    0.9319456621225145
+   ]
+  },
+  "canine_before_finetune": {
+   "letters": 400870,
+   "letter_accuracy": 0.5532317210068102,
+   "letter_error_rate": 0.4467682789931898,
+   "syllables": 110862,
+   "syllable_accuracy": 0.055808121809095994,
+   "syllable_error_rate": 0.944191878190904,
+   "sentences": 5000,
+   "sentence_accuracy": 0.0,
+   "unseen_syllables": 1578,
+   "unseen_syllable_accuracy": 0.12991128010139416,
+   "syllable_accuracy_ci95": [
+    0.05443560730710477,
+    0.05729789772119668
+   ],
+   "letter_accuracy_ci95": [
+    0.5515158344019637,
+    0.5550934861118592
+   ]
+  },
+  "canine_finetuned": {
+   "letters": 400870,
+   "letter_accuracy": 0.9841295182977025,
+   "letter_error_rate": 0.015870481702297545,
+   "syllables": 110862,
+   "syllable_accuracy": 0.9461312262091609,
+   "syllable_error_rate": 0.0538687737908391,
+   "sentences": 5000,
+   "sentence_accuracy": 0.4796,
+   "unseen_syllables": 1578,
+   "unseen_syllable_accuracy": 0.9277566539923955,
+   "syllable_accuracy_ci95": [
+    0.9440763817385875,
+    0.9483319835038115
+   ],
+   "letter_accuracy_ci95": [
+    0.9835048071541084,
+    0.9847781730658186
+   ]
+  }
+ },
+ "inference": {
+  "seconds_for_test_set": 0.8346900939941406,
+  "sentences_per_second": 5990.247201897545,
+  "peak_vram_allocated_gb": 1.9465155601501465
+ },
+ "base_letters_changed": 0,
+ "timing": {
+  "setup_seconds": 0.01,
+  "data_seconds": 811.78,
+  "train_seconds_wall_incl_load": 1187.07,
+  "eval_seconds_wall_incl_load": 28.49,
+  "total_seconds": 2027.38
+ },
+ "gpu_seconds": 1215.56,
+ "peak_vram_gb_train": 4.717426300048828,
+ "cost_estimate": {
+  "is_estimate": true,
+  "price_source": "https://www.runpod.io/pricing",
+  "price_date": "2026-10-16",
+  "prices": {
+   "runpod_rtx4090_community_usd_per_h": 0.34,
+   "runpod_rtx4090_secure_usd_per_h": 0.89
+  },
+  "gpu_hours": 0.33765555555555554,
+  "pipeline_hours_incl_setup_and_data": 0.5631611111111111,
+  "runpod_rtx4090_community_gpu_only_usd": 0.1148028888888889,
+  "runpod_rtx4090_community_whole_pipeline_usd": 0.1914747777777778,
+  "runpod_rtx4090_secure_gpu_only_usd": 0.30051344444444444,
+  "runpod_rtx4090_secure_whole_pipeline_usd": 0.5012133888888889
+ }
+}

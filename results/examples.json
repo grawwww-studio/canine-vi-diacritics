@@ -1,0 +1,113 @@
+{
+ "model_right_baseline_wrong": [
+  {
+   "title": "Wilhelm II, Hoàng đế Đức",
+   "gold": "Với tính khí khác thường, ông thường nói thế này nhưng lại làm thế khác.",
+   "input": "Voi tinh khi khac thuong, ong thuong noi the nay nhung lai lam the khac.",
+   "unigram_lookup": "Với tỉnh khi khác thường, ông thường nơi thể này những lại làm thể khác.",
+   "finetuned": "Với tính khí khác thường, ông thường nói thế này nhưng lại làm thế khác."
+  },
+  {
+   "title": "Darin",
+   "gold": "Exit bao gồm các bài hát \"Nobody Knows\", \"Playing With Fire\", \"Check You Out\" và \"Before I Pass Out\", với phần sau chứa các tính năng của rapper Lil Jon.",
+   "input": "Exit bao gom cac bai hat \"Nobody Knows\", \"Playing With Fire\", \"Check You Out\" va \"Before I Pass Out\", voi phan sau chua cac tinh nang cua rapper Lil Jon.",
+   "unigram_lookup": "Exit bao gồm các bài hát \"Nobody Knows\", \"Playing With Fire\", \"Check You Out\" và \"Before I Pass Out\", với phần sau chưa các tỉnh năng của rapper Lil Jon.",
+   "finetuned": "Exit bao gồm các bài hát \"Nobody Knows\", \"Playing With Fire\", \"Check You Out\" và \"Before I Pass Out\", với phần sau chứa các tính năng của rapper Lil Jon."
+  },
+  {
+   "title": "Thổ Nhĩ Kỳ",
+   "gold": "Tại tây bắc Thổ Nhĩ Kỳ, nhóm bộ tộc quan trọng nhất tại Thrace là Odyrisia.",
+   "input": "Tai tay bac Tho Nhi Ky, nhom bo toc quan trong nhat tai Thrace la Odyrisia.",
+   "unigram_lookup": "Tại tây bắc Thổ Nhĩ Kỳ, nhóm bộ tộc quân trong nhất tại Thrace là Odyrisia.",
+   "finetuned": "Tại tây bắc Thổ Nhĩ Kỳ, nhóm bộ tộc quan trọng nhất tại Thrace là Odyrisia."
+  },
+  {
+   "title": "Danh sách nhân vật của Kin'iro no Corda",
+   "gold": "Dù ban đầu cô rất miễn cưỡng về việc chơi viôlông nhưng sau đó cô đã bắt đầu yêu âm nhạc.",
+   "input": "Du ban dau co rat mien cuong ve viec choi violong nhung sau do co da bat dau yeu am nhac.",
+   "unigram_lookup": "Dù bản đầu có rất miền cường về việc chơi viôlông những sau đó có đã bắt đầu yếu âm nhạc.",
+   "finetuned": "Dù ban đầu cô rất miễn cưỡng về việc chơi viôlông nhưng sau đó cô đã bắt đầu yêu âm nhạc."
+  },
+  {
+   "title": "Con lắc Foucault",
+   "gold": "10 thí nghiệm \"đẹp nhất\" trong lịch sử (phần III)-Nguồn VnExpress.net",
+   "input": "10 thi nghiem \"dep nhat\" trong lich su (phan III)-Nguon VnExpress.net",
+   "unigram_lookup": "10 thị nghiệm \"đẹp nhất\" trong lịch sự (phần III)-Nguon VnExpress.net",
+   "finetuned": "10 thí nghiệm \"đẹp nhất\" trong lịch sử (phần III)-Nguồn VnExpress.net"
+  }
+ ],
+ "both_right": [
+  {
+   "title": "Dicranomyia clavistyla",
+   "gold": "Dicranomyia clavistyla là một loài ruồi trong họ Limoniidae.",
+   "input": "Dicranomyia clavistyla la mot loai ruoi trong ho Limoniidae.",
+   "unigram_lookup": "Dicranomyia clavistyla là một loài ruồi trong họ Limoniidae.",
+   "finetuned": "Dicranomyia clavistyla là một loài ruồi trong họ Limoniidae."
+  },
+  {
+   "title": "Phrynobatrachus manengoubensis",
+   "gold": "Phrynobatrachus manengoubensis là một loài ếch trong họ Petropedetidae.",
+   "input": "Phrynobatrachus manengoubensis la mot loai ech trong ho Petropedetidae.",
+   "unigram_lookup": "Phrynobatrachus manengoubensis là một loài ếch trong họ Petropedetidae.",
+   "finetuned": "Phrynobatrachus manengoubensis là một loài ếch trong họ Petropedetidae."
+  }
+ ],
+ "model_wrong": [
+  {
+   "title": "Gia phả",
+   "gold": "Ở Tây phương, người ta có tập tục làm cây phả hệ hay phả đồ, tương tự như Tông đồ của người Hoa hay người Việt.",
+   "input": "O Tay phuong, nguoi ta co tap tuc lam cay pha he hay pha do, tuong tu nhu Tong do cua nguoi Hoa hay nguoi Viet.",
+   "unigram_lookup": "Ở Tây phương, người ta có tập tục làm cây phá hệ hay phá đó, tướng từ như Tổng đó của người Hoa hay người Việt.",
+   "finetuned": "Ở Tây phương, người ta có tập tục làm cây phà hệ hay phá đỡ, tương tự như Tông đồ của người Hoa hay người Việt."
+  },
+  {
+   "title": "Chùa Shwedagon",
+   "gold": "Stupa (phù đồ) từng bị hư hại suốt một thời gian dài và được Vua Binnya U của Hanthawaddy sửa lại.",
+   "input": "Stupa (phu do) tung bi hu hai suot mot thoi gian dai va duoc Vua Binnya U cua Hanthawaddy sua lai.",
+   "unigram_lookup": "Stupa (phủ đó) từng bị hư hai suốt một thời gian đại và được Vua Binnya U của Hanthawaddy sửa lại.",
+   "finetuned": "Stupa (phụ đó) từng bị hư hại suốt một thời gian dài và được Vua Binnya U của Hanthawaddy sửa lại."
+  },
+  {
+   "title": "Adolf Hitler",
+   "gold": "Trong thời gian xảy ra cuộc khủng hoảng, Hitler tự bổ nhiệm mình làm người đứng đầu Oberkommando des Heeres (Bộ Tổng tư lệnh Lục quân).",
+   "input": "Trong thoi gian xay ra cuoc khung hoang, Hitler tu bo nhiem minh lam nguoi dung dau Oberkommando des Heeres (Bo Tong tu lenh Luc quan).",
+   "unigram_lookup": "Trong thời gian xây ra cuộc khủng hoàng, Hitler từ bộ nhiệm mình làm người dụng đầu Oberkommando des Heeres (Bộ Tổng từ lệnh Lục quân).",
+   "finetuned": "Trong thời gian xảy ra cuộc khủng hoảng, Hitler từ bổ nhiệm mình làm người đứng đầu Oberkommando des Heeres (Bộ Tổng tư lệnh Lục quân)."
+  },
+  {
+   "title": "Trịnh Sâm",
+   "gold": "Lại sai nội giám (không rõ họ tên) cùng đi để dâng của đút lót cho quan lại nhà Thanh để họ nói giúp cho việc xin phong tước.",
+   "input": "Lai sai noi giam (khong ro ho ten) cung di de dang cua dut lot cho quan lai nha Thanh de ho noi giup cho viec xin phong tuoc.",
+   "unigram_lookup": "Lai sai nơi giảm (không rõ họ tên) cũng đi để đang của dứt lọt cho quân lại nhà Thành để họ nơi giúp cho việc xin phong tước.",
+   "finetuned": "Lại sai nơi giam (không rõ họ tên) cũng đi dễ dàng của đút lót cho quan lại nhà Thanh để họ nói giúp cho việc xin phong tước."
+  },
+  {
+   "title": "Ribosome",
+   "gold": "Các nghiên cứu thêm đã cho thấy rằng các protetin S1 và S21, kết hợp với đuôi 3' của 16S ribosome RNA, có tham gia vào khởi động việc dịch mã.",
+   "input": "Cac nghien cuu them da cho thay rang cac protetin S1 va S21, ket hop voi duoi 3' cua 16S ribosome RNA, co tham gia vao khoi dong viec dich ma.",
+   "unigram_lookup": "Các nghiên cứu thêm đã cho thấy rằng các protetin S1 và S21, kết hợp với dưới 3' của 16S ribosome RNA, có tham gia vào khỏi động việc dịch mà.",
+   "finetuned": "Các nghiên cứu thêm đã cho thấy rằng các protetin S1 và S21, kết hợp với dưới 3' của 16S ribosome RNA, có tham gia vào khởi động việc dịch ma."
+  },
+  {
+   "title": "Chiến tranh Thanh – Miến",
+   "gold": "Cuộc xung đột quy mô khu vực đã leo thang thành chiến tranh quy mô lớn với sự huy động quân lực quy mô toàn quốc ở cả hai nước.",
+   "input": "Cuoc xung dot quy mo khu vuc da leo thang thanh chien tranh quy mo lon voi su huy dong quan luc quy mo toan quoc o ca hai nuoc.",
+   "unigram_lookup": "Cuộc xung đột quy mở khu vực đã leo tháng thành chiến tranh quy mở lớn với sự huy động quân lực quy mở toàn quốc ở cả hai nước.",
+   "finetuned": "Cuộc xung đột quy mô khu vực đã leo thang thành chiến tranh quy mô lớn với sự huy động quân lực quy mô toàn quốc ở cả hai nuớc."
+  },
+  {
+   "title": "Thống sứ Bắc Kỳ",
+   "gold": "Thống soái Bắc Kỳ và Tổng sứ Trung Kỳ - Bắc Kỳ",
+   "input": "Thong soai Bac Ky va Tong su Trung Ky - Bac Ky",
+   "unigram_lookup": "Thông soái Bắc Kỳ và Tổng sự Trung Kỳ - Bắc Kỳ",
+   "finetuned": "Thống soái Bắc Kỳ và Tổng sự Trung Kỳ - Bắc Kỳ"
+  },
+  {
+   "title": "Chiếc kèn của thiên nga",
+   "gold": "Louis quyết định học đọc và viết để có thể giao tiếp, vì thế chú bay khỏi nơi trú ẩn.",
+   "input": "Louis quyet dinh hoc doc va viet de co the giao tiep, vi the chu bay khoi noi tru an.",
+   "unigram_lookup": "Louis quyết định học độc và viết để có thể giáo tiếp, vị thể chủ bay khỏi nơi trụ ăn.",
+   "finetuned": "Louis quyết định học đọc và viết để có thể giao tiếp, vì thế chữ bày khỏi nơi trú ẩn."
+  }
+ ]
+}
