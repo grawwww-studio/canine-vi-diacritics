@@ -4,7 +4,7 @@ A small, fully reproducible fine-tune with a before/after measurement: **restori
 with **CANINE-s** (Google, about 0.13B parameters; the Hugging Face card shows 0.1B, F32 weights 528 MB, Apache-2.0), fine-tuned on Vietnamese Wikipedia sentences. One command runs setup, data, training, evaluation
 and writes `results.md` and `results.json`. By Grawwww, MIT licence for our code.
 
-Case page with the chart and the examples: https://grawwww.xyz/trabajos/en/diacritics-fine-tune/
+Case page with the chart and the examples: https://grawwww.xyz/en/work/diacritics-fine-tune/
 
 | Test set, 5,000 held-out sentences | Syllable accuracy | Letter accuracy | Whole sentence right |
 |---|---|---|---|
